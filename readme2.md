@@ -1,3 +1,3 @@
-# Projeto WEB
+# Projeto Stractus
 
 usado para teste
